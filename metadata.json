@@ -1,0 +1,8 @@
+{
+  "name": "IKEA Spatial Configurator",
+  "description": "Configure your smart home lighting using spatial gestures. Connects to TRÅDFRI-compatible ESP32 devices.",
+  "requestFramePermissions": [
+    "camera",
+    "display-capture"
+  ]
+}
